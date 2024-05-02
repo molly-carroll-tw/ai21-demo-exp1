@@ -163,4 +163,3 @@ print(call_jamba(prompt, temperature=0))
 # print(term_sheet)
 
 # MC - deductive reasoning after due diligence -- proceed with caution, though I do see ways to do this ourselves with better tech/tools
-# sometimes stuff is dumb
